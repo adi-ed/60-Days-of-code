@@ -5,7 +5,7 @@ This repo stores the code-files and projects made throughout the course 'Python 
 App 1:
 To-Do desktop (using PyGUI) and web-version
 
-![Alt text](App1-To-do/App1ss1.png?raw=true "Optional Title")
+![Screen shot To-do application](App1-To-do/App1ss1.png?raw=true "To-Do App")
 
 
 
